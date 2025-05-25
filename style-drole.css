@@ -1,0 +1,24 @@
+h1{
+    text-align:center;
+    color: red;
+}
+h2{
+    text-align: center;
+    color: yellow;
+}
+ul{
+    text-align: center;
+    color: purple;
+}
+p{
+    text-align: center;
+    color: palegoldenrod;
+}
+a{
+    text-align: center;
+    color: powderblue;
+}
+button{
+    text-align: center;
+    color: powderblue;
+}
